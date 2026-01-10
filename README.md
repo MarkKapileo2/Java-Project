@@ -58,5 +58,4 @@ This structure improves maintainability, testability, and scalability.
 - An order is created and stored when a customer completes a purchase
 - Business data is retrieved for reporting or analytics
 
-## 📁 Project Structure
 
