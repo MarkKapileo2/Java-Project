@@ -1,3 +1,5 @@
+# COURSEWORK
+
 # Inventory & Order Management Service
 
 A backend service built with Java and Spring Boot that provides inventory tracking and order management functionality through a RESTful API. The application is designed to support business operations such as managing products, tracking stock levels, and processing orders in a structured and scalable way.
